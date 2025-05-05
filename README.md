@@ -1,17 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sergio Linares Ducuara</h1>
-<h3 align="center">A Computational Engineer passionate about programming</h3>
+<h3 align="center">A Computational Engineer passionate about programming, Video Design, VideoGames and Music</h3>
 
-- 🔭 I’m currently working on **Innovacion Proyect**
+- 🔭 I’m currently working on an **Innovation Project**:
+  - 🧠 **Next.js** landing page with integrated **SEO** and **Google Ads**  
+    🌐 [linaresmodulares.com](https://linaresmodulares.com)
+  - 🛒 **E-Commerce SPA & App** for import/export of Chinese products
+    - 🔁 **ETL Pipelines** for data processing
+    - 📊 **Data Analysis**, KPIs & AI Integration
+    - 🔌 APIs to connect different sponsors and platforms
 
-- 🌱 I’m currently learning **Spring Boot,Next.js and AWS**
+- 🌱 I’m currently learning and applying:
+  - 🌱 **Spring Boot**, **Next.js**, **SQL**, **PySpark**, **Pandas**, **Power BI**, and **AWS**
+  - 🧩 Modular architecture & design patterns
+  - 🛠️ REST APIs for connecting multiple applications
 
-- 👯 I’m looking to collaborate on **Linares Modulares web Page**
+- 👯 I’m open to collaborate on:
+  - 🤖 **AI Projects**
+  - 🌐 **Web Development Projects**
+  - 📊 **Data Projects**
 
-- 💬 Ask me about **React,NodeJS and Sprint Boot**
+- 📫 How to reach me: **sergiolinaresLM@gmail.com**
 
-- 📫 How to reach me **sergiolinaresLM@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sergio-numael-linares-ducuara-3a0b6921a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio numael linares ducuara" height="30" width="40" /></a>
 </p>
