@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Innovacion Proyect**
 
-- 🌱 I’m currently learning **Spring Boot,AWS**
+- 🌱 I’m currently learning **Spring Boot,Next.js and AWS**
 
 - 👯 I’m looking to collaborate on **Linares Modulares web Page**
 
